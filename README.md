@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Malith-Gamage/Malith-Gamage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Malith Gamage, an undergraduate pursuing **BSc (Hons) in Software Engineering** at  
+**Sabaragamuwa University of Sri Lanka** 🎓
 
-Here are some ideas to get you started:
+💻 **What I do**
+- Write code, break it, and fix it again
+- Explore new tech and tools
+- Build projects that (hopefully) make life easier
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Currently Learning**
+- Web Development
+- Software Architecture
+- Cloud & DevOps basics
+
+📫 **Reach me at**
+- [LinkedIn](www.linkedin.com/in/malith-gamage-715b7b280)  
+- [Email](wgmgeewinda@gmail.com)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House## Hi there 👋
+
