@@ -1,4 +1,5 @@
 # Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
 
 I'm Malith Gamage, an undergraduate pursuing **BSc (Hons) in Software Engineering** at  
 **Sabaragamuwa University of Sri Lanka** 🎓
