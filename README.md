@@ -1,10 +1,8 @@
-<div align="center">
-
 # Hi there 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Malith-Geewinda&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Malith-Gamage&label=Profile%20Views&color=0e75b6&style=flat)
 
-I'm **Geewinda**, an undergraduate pursuing **BSc (Hons) in Software Engineering** at  
+I'm **Malith Gamage**, an undergraduate pursuing **BSc (Hons) in Software Engineering** at  
 **Sabaragamuwa University of Sri Lanka** 🎓
 
 ---
@@ -20,10 +18,9 @@ I'm **Geewinda**, an undergraduate pursuing **BSc (Hons) in Software Engineering
 - Cloud & DevOps basics  
 
 📫 **Reach me at**  
-[LinkedIn](https://www.linkedin.com/in/malith-gamage-715b7b280) | [Email](mailto:wgmgeewinda@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/malith-gamage-715b7b280)  
+- [Email](mailto:wgmgeewinda@gmail.com)  
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House  
-
-</div>
